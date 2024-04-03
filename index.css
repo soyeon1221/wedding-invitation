@@ -210,8 +210,8 @@ video {
 }
 #call-list {
   background-color: inherit;
-  width: 100%;
   max-width: 400px;
+  margin: 0 auto;
 }
 .call-list-title {
   display: block;

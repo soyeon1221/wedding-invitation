@@ -12,23 +12,23 @@ document.getElementById("mybtn").onclick = () => {
   })
 }
 document.getElementById("mybtn2").onclick = () => {
-  window.navigator.clipboard.writeText(myText.textContent).then(() => {
+  window.navigator.clipboard.writeText(myText2.textContent).then(() => {
     alert('계좌번호(110123456789)가 복사되었습니다. \n필요한 곳에 붙여넣기 하세요.')
   })
 }
 document.getElementById("mybtn3").onclick = () => {
-  window.navigator.clipboard.writeText(myText.textContent).then(() => {
-    alert('계좌번호(110123456789)가 복사되었습니다. \n필요한 곳에 붙여넣기 하세요.')
+  window.navigator.clipboard.writeText(myText3.textContent).then(() => {
+    alert('계좌번호(110987654321)가 복사되었습니다. \n필요한 곳에 붙여넣기 하세요.')
   })
 }
 document.getElementById("mybtn4").onclick = () => {
-  window.navigator.clipboard.writeText(myText.textContent).then(() => {
-    alert('계좌번호(110123456789)가 복사되었습니다. \n필요한 곳에 붙여넣기 하세요.')
+  window.navigator.clipboard.writeText(myText4.textContent).then(() => {
+    alert('계좌번호(110987654321)가 복사되었습니다. \n필요한 곳에 붙여넣기 하세요.')
   })
 }
 
 /* 계좌번호 클릭이벤트 */
-var elements = document.querySelectorAll("[id^='acitem-title'], [id^='acitem-title2']");
+var elements = document.querySelectorAll("#acitem-title, #acitem-title2");
 for (var i = 0; i < elements.length; i++) {
   elements[i].addEventListener("click", function() {
     var textElementId = this.getAttribute("id").replace("title", "text");
