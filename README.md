@@ -1,18 +1,18 @@
-# &#9918; 모바일 청첩장 &#9918;
+# 모바일 청첩장 &#128140;
 
 
 
 <br>
 
 
-## &#128204; 모바일 청첩장 바로가기
+## &#127880; 모바일 청첩장 바로가기
 
-[<img src="./icon.png" width="40" height="40">](https://soyeon1221.github.io/wedding-invitation) 아이콘 클릭!
+[<img src="icon.png" width="40" height="40">](https://soyeon1221.github.io/wedding-invitation) 아이콘 클릭!
 
 <br>
 
 
-## &#128204; 프로젝트 소개
+## &#127880; 프로젝트 소개
 
 HTML, CSS, JavaScript를 사용하여 모바일 청첩장을 만들었습니다.
 
@@ -21,7 +21,7 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 등 여�
 <br>
 
 
-## &#128204; 기술 스택 및 라이브러리
+## &#127880; 기술 스택 및 라이브러리
 
 - <img src="https://img.shields.io/badge/JavaScript-ECD53F?style=flat-square&logo=JavaScript&logoColor=white"/>
 - <img src="https://img.shields.io/badge/HTML5-F46D01?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -30,14 +30,14 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 등 여�
 <br>
 
 
-## &#128204; 개발 기간
+## &#127880; 개발 기간
 
 - 24.02.20 - 24.03.08 (총 18일)
 
 <br>
 
 
-## &#128204; 주요 기능
+## &#127880; 주요 기능
 
 ### 1. BGM
 
