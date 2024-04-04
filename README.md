@@ -51,13 +51,13 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 2. 연락하기
 
-(연락하기 버튼을 눌렀을때 하단에 리스트가 나타나고 전화 걸기 화면까지 확인할 수 있습니다.)
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/1953bd0a-15ba-4288-b7a9-3ce6648ce4c7" width="270px" height="260px">
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/4015345e-16ce-45db-9848-e1bfb72845fa" width="270px" height="260px">
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/8b38f785-38b3-48c4-91f2-d0386861bcde" width="270px" height="260px">
 
 
 
+(연락하기 버튼을 눌렀을 때 하단에 리스트가 나타나고 전화 걸기 화면까지 확인할 수 있습니다.)
 - 연락처가 담긴 상자의 display를 none으로 설정하고 연락하기 버튼을 클릭했을 때 block으로 바뀌도록 구현하였습니다.
 - target을 지정해서 연락하기 버튼이 아닌 다른 영역이 클릭 된 경우에는 해당 상자를 숨기도록 구현하였습니다.
 - a 태그의 속성을 사용해서 전화 걸기, 문자 보내기 기능을 구현하였습니다.
@@ -68,6 +68,7 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/6afb7de6-aaca-436d-93e5-d635d223ad28" width="300px" height="330px">
 
 
+(sec 부분에 시간이 줄어드는 것을 확인할 수 있습니다.)
 - newDate()를 통해 현재 날짜와 시각을 받고, 이를 통해 디데이 계산을 하였습니다.
 - setInterval()을 통해 해당 함수를 1초마다 반복적으로 함수를 호출시켜 화면을 업데이트하였습니다.
 
@@ -77,6 +78,7 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/9ce10ebd-7666-488a-b9c2-982e5907b1cd" width="300px" height="330px">
 
 
+(이미지를 클릭했을 때 확대되었다가 X 버튼을 누르면 이미지가 사라지는 것을 확인할 수 있습니다)
 - 이미지가 여러개라서 반복문을 사용해서 각 이미지의 이벤트리스너를 연결했습니다.
 - 클릭한 이미지의 src를 #modal에 전달해서 해당 이미지가 크게 보이도록 구현하였습니다.
 - 이미지가 크게 보였을 때 닫기 버튼이 나타나고 버튼을 클릭하면 이미지가 사라지도록 구현하였습니다.
@@ -87,6 +89,7 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/fa6dbe36-c270-451d-a3ea-35d8b0609188" width="300px" height="330px">
 
 
+(입력한 주소의 지도가 보이는 것을 확인할 수 있습니다.)
 - kakao map을 삽입하여 해당 주소의 지도가 보이도록 구현하였습니다.
 - 각 버튼을 클릭하면 해당 미디어로 이동합니다.
 
@@ -96,6 +99,7 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/b5fbe3cf-5522-48c6-b50e-6b777aa3291c" width="300px" height="310px">
 
 
+(식사안내 / 주차안내 클릭했을 때 보이는 내용이 다른 것을 확인할 수 있습니다.)
 - input의 radio 속성을 사용해서 버튼을 생성하고, CSS에서 checked 가상 클래스를 사용해서 선택된 체크박스의 display를 block으로 변경하였습니다.
 
 
@@ -104,12 +108,19 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/ac16e629-f66a-4acd-a7d0-2582ddf8fed8" width="300px" height="310px">
 
 
+(계좌번호 리스트가 나타나고 계좌번호가 복사된 것을 확인할 수 있습니다.)
 - 계좌번호 상자를 클릭하면 밑으로 리스트가 나타나도록 구현하였습니다.
 - Clipboard API를 사용하여 복사버튼을 누르면 해당 계좌번호의 숫자가 복사되고, alert로 안내 창을 구현하였습니다.
 
 
 ### 8. 방명록
 
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/84e3e51c-a3da-442d-b503-be8d94fd65e2" width="270px" height="310px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/594bb411-8c1a-46ce-b56a-13a0f26f640f" width="270px" height="310px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/fcfd54b3-9314-4e8f-a11b-4f3d521eccaa" width="270px" height="310px">
+
+
+(작성하고 저장하면 하단에 방명록이 생성되고 X 버튼을 누르면 비밀번호 입력란이 나타나는 것을 확인할 수 있습니다.)
 - 이름, 비밀번호, 메시지를 작성하고 저장하면 하단에 입력한 내용이 나타나도록 구현하였습니다.
 - newDate()를 사용하여 작성한 날짜도 함께 기재되도록 구현하였습니다.
 - 작성된 방명록에서 X 버튼을 클릭하고 사용자가 입력한 비밀번호를 적으면 해당 방명록은 삭제되도록 구현하였습니다.
@@ -122,6 +133,7 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/6a6a9a71-248d-4537-b1e8-805b236ad50f" width="270px" height="310px">
 
 
+(링크 주소 복사하기를 클릭했을 때 나타나는 안내 창과 카카오톡을 공유했을 때 메신저에 나타나는 내용을 확인할 수 있습니다.)
 - Kakao developers를 사용하여 카카오톡 공유하기 버튼을 누르면 사용자 카카오톡 친구 목록이 나타나면서 공유할 수 있게 구현하였습니다.
 - Clipboard API를 사용하여 링크 주소 복사하기 버튼을 누르면 현재 URL이 복사되고, alert로 안내 창을 구현하였습니다.
 
