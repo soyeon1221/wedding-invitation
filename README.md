@@ -40,11 +40,9 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 ## &#127872; 주요 기능
 
 ### 1. 상단
-
-<div style="background-color: #ddd;">
-  <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/2e0d90b3-bfab-4876-b7cc-35b2f3205e6f" width="200px" height="300px">
-  <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/88dd7240-1c48-4b3c-828e-8a7cd4ecf3fc" width="200px" height="300px">
-</div>
+|---|---|
+| <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/2e0d90b3-bfab-4876-b7cc-35b2f3205e6f" width="200px" height="300px"> |
+| <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/84f4300a-e0f3-4769-9ce1-3c60602bbc97" width="200px" height="300px"> |
 <br>
 - 클릭이벤트를 사용해서 재생/음소거 버튼으로 오디오 재생을 컨트롤 할 수 있게 구현하였습니다.
 - position과 opacity를 사용하여 메인이미지 위에 꽃잎 효과를 넣었습니다.
