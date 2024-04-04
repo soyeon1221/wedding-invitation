@@ -50,9 +50,9 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 2. 연락하기
 
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/1953bd0a-15ba-4288-b7a9-3ce6648ce4c7" width="300px" height="310px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/4015345e-16ce-45db-9848-e1bfb72845fa" width="300px" height="310px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/8b38f785-38b3-48c4-91f2-d0386861bcde" width="300px" height="310px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/1953bd0a-15ba-4288-b7a9-3ce6648ce4c7" width="250px" height="220px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/4015345e-16ce-45db-9848-e1bfb72845fa" width="250px" height="220px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/8b38f785-38b3-48c4-91f2-d0386861bcde" width="250px" height="220px">
 
 
 
