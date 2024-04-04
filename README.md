@@ -49,6 +49,11 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 2. 연락하기
 
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/ce0fee95-b4ed-4657-8c47-ce617afede7c" width="200px" height="300px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/928094f3-331c-40dd-ae57-77609dffdb4d" width="200px" height="300px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/c296d297-e866-41c2-b752-3fcacb864a33" width="200px" height="300px">
+
+
 - 연락처가 담긴 상자의 display를 none으로 설정하고 연락하기 버튼을 클릭했을 때 block으로 바뀌도록 구현하였습니다.
 - target을 지정해서 연락하기 버튼이 아닌 다른 영역이 클릭 된 경우에는 해당 상자를 숨기도록 구현하였습니다.
 - a 태그의 속성을 사용해서 전화 걸기, 문자 보내기 기능을 구현하였습니다.
