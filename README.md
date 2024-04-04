@@ -47,16 +47,18 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 - 클릭이벤트를 사용해서 재생/음소거 버튼으로 오디오 재생을 컨트롤 할 수 있게 구현하였습니다.
 - position과 opacity를 사용하여 메인이미지 위에 꽃잎 효과를 넣었습니다.
 
+
 ### 2. 연락하기
 
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/ce0fee95-b4ed-4657-8c47-ce617afede7c" width="200px" height="300px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/928094f3-331c-40dd-ae57-77609dffdb4d" width="200px" height="300px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/c296d297-e866-41c2-b752-3fcacb864a33" width="200px" height="300px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/ce0fee95-b4ed-4657-8c47-ce617afede7c" width="220px" height="300px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/928094f3-331c-40dd-ae57-77609dffdb4d" width="220px" height="300px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/c296d297-e866-41c2-b752-3fcacb864a33" width="220px" height="300px">
 
 
 - 연락처가 담긴 상자의 display를 none으로 설정하고 연락하기 버튼을 클릭했을 때 block으로 바뀌도록 구현하였습니다.
 - target을 지정해서 연락하기 버튼이 아닌 다른 영역이 클릭 된 경우에는 해당 상자를 숨기도록 구현하였습니다.
 - a 태그의 속성을 사용해서 전화 걸기, 문자 보내기 기능을 구현하였습니다.
+
 
 ### 3. D-day
 
@@ -76,20 +78,24 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 - kakao map을 삽입하여 해당 주소의 지도가 보이도록 구현하였습니다.
 - 각 버튼을 클릭하면 해당 미디어로 이동합니다.
 
+
 ### 6. Information
 
 - input의 radio 속성을 사용해서 버튼을 생성하고, CSS에서 checked 가상 클래스를 사용해서 선택된 체크박스의 display를 block으로 변경하였습니다.
+
 
 ### 7. 마음 전하실 곳
 
 - 계좌번호 상자를 클릭하면 밑으로 리스트가 나타나도록 구현하였습니다.
 - Clipboard API를 사용하여 복사버튼을 누르면 해당 계좌번호의 숫자가 복사되고, alert로 안내 창을 구현하였습니다.
 
+
 ### 8. 방명록
 
 - 이름, 비밀번호, 메시지를 작성하고 저장하면 하단에 입력한 내용이 나타나도록 구현하였습니다.
 - newDate()를 사용하여 작성한 날짜도 함께 기재되도록 구현하였습니다.
 - 작성된 방명록에서 X 버튼을 클릭하고 사용자가 입력한 비밀번호를 적으면 해당 방명록은 삭제되도록 구현하였습니다.
+
 
 ### 9. 하단
 
