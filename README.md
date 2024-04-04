@@ -51,9 +51,9 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 2. 연락하기
 
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/16e9b05e-d130-444f-81cc-fe2e48528fbe" width="270px" height="320px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/985be873-6664-4fd4-a6c0-b70b35ab7e59" width="270px" height="320px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/a0fd0428-9618-410e-8fa8-e9cf04b5e227" width="270px" height="320px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/16e9b05e-d130-444f-81cc-fe2e48528fbe" width="260px" height="320px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/985be873-6664-4fd4-a6c0-b70b35ab7e59" width="260px" height="320px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/a0fd0428-9618-410e-8fa8-e9cf04b5e227" width="260px" height="320px">
 
 
 (연락하기 버튼을 눌렀을 때 하단에 리스트가 나타나고 전화 걸기 화면까지 확인할 수 있습니다.)
@@ -64,7 +64,7 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 3. D-day
 
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/6afb7de6-aaca-436d-93e5-d635d223ad28" width="300px" height="330px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/6afb7de6-aaca-436d-93e5-d635d223ad28" width="290px" height="330px">
 
 
 (sec 부분에 시간이 줄어드는 것을 확인할 수 있습니다.)
@@ -95,7 +95,7 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 6. Information
 
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/b5fbe3cf-5522-48c6-b50e-6b777aa3291c" width="300px" height="310px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/b5fbe3cf-5522-48c6-b50e-6b777aa3291c" width="290px" height="310px">
 
 
 (식사안내 / 주차안내 클릭했을 때 보이는 내용이 다른 것을 확인할 수 있습니다.)
@@ -104,7 +104,7 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 7. 마음 전하실 곳
 
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/ac16e629-f66a-4acd-a7d0-2582ddf8fed8" width="300px" height="310px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/ac16e629-f66a-4acd-a7d0-2582ddf8fed8" width="290px" height="310px">
 
 
 (계좌번호 리스트가 나타나고 계좌번호가 복사된 것을 확인할 수 있습니다.)
@@ -114,9 +114,9 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 8. 방명록
 
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/84e3e51c-a3da-442d-b503-be8d94fd65e2" width="270px" height="320px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/594bb411-8c1a-46ce-b56a-13a0f26f640f" width="270px" height="320px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/fcfd54b3-9314-4e8f-a11b-4f3d521eccaa" width="270px" height="320px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/84e3e51c-a3da-442d-b503-be8d94fd65e2" width="260px" height="320px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/594bb411-8c1a-46ce-b56a-13a0f26f640f" width="260px" height="320px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/fcfd54b3-9314-4e8f-a11b-4f3d521eccaa" width="260px" height="320px">
 
 
 (작성하고 저장하면 방명록이 생성되고 X 버튼을 누르면 비밀번호 입력란이 나타나는 것을 확인할 수 있습니다.)
@@ -127,9 +127,9 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 9. 하단
 
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/12325731-9202-4de5-8a69-ef3dd67681d6" width="270px" height="260px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/4be60719-3e3e-4aea-baaf-bf06a5b48754" width="270px" height="260px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/6a6a9a71-248d-4537-b1e8-805b236ad50f" width="270px" height="310px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/12325731-9202-4de5-8a69-ef3dd67681d6" width="260px" height="260px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/4be60719-3e3e-4aea-baaf-bf06a5b48754" width="260px" height="260px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/6a6a9a71-248d-4537-b1e8-805b236ad50f" width="260px" height="310px">
 
 
 (링크 주소 복사하기를 클릭했을 때 나타나는 안내 창과 카카오톡을 공유했을 때 메신저에 나타나는 내용을 확인할 수 있습니다.)
