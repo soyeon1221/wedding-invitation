@@ -50,13 +50,9 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 2. 연락하기
 
-<!-- <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/ce0fee95-b4ed-4657-8c47-ce617afede7c" width="250px" height="350px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/ce0fee95-b4ed-4657-8c47-ce617afede7c" width="250px" height="350px">
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/928094f3-331c-40dd-ae57-77609dffdb4d" width="250px" height="350px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/c296d297-e866-41c2-b752-3fcacb864a33" width="250px" height="350px"> -->
-
-
-|:---:|:---:|:---:|
-|![연락하기](https://github.com/soyeon1221/wedding-invitation/assets/121142418/ce0fee95-b4ed-4657-8c47-ce617afede7c)|![연락하기2](https://github.com/soyeon1221/wedding-invitation/assets/121142418/928094f3-331c-40dd-ae57-77609dffdb4d)|![연락하기3](https://github.com/soyeon1221/wedding-invitation/assets/121142418/c296d297-e866-41c2-b752-3fcacb864a33)|
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/c296d297-e866-41c2-b752-3fcacb864a33" width="250px" height="30px">
 
 
 - 연락처가 담긴 상자의 display를 none으로 설정하고 연락하기 버튼을 클릭했을 때 block으로 바뀌도록 구현하였습니다.
