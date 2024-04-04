@@ -6,21 +6,21 @@ Kakao.Share.createDefaultButton({
   objectType: 'feed',
   content: {
     title: '백현우 ♥ 홍해인 결혼합니다',
-    description: '2024년 11월 24일 일요일 오후 1시 30분 \n아페가모 광화문 B2 로스타뇨홀',
+    description: '2024년 11월 24일 일요일 오후 1시 30분 \n그랜드워커힐 서울 애스톤하우스',
     imageUrl:
       'https://pbs.twimg.com/media/GJQAO5abIAApPwA?format=jpg&name=large',
     link: {
       // [내 애플리케이션] > [플랫폼] 에서 등록한 사이트 도메인과 일치해야 함
-      mobileWebUrl: 'https://project-wedding.netlify.app',
-      webUrl: 'https://project-wedding.netlify.app',
+      mobileWebUrl: 'https://soyeon1221.github.io/wedding-invitation',
+      webUrl: 'https://soyeon1221.github.io/wedding-invitation',
     },
   },
   buttons: [
     {
       title: '자세히 보기',
       link: {
-        mobileWebUrl: 'https://project-wedding.netlify.app',
-      webUrl: 'https://project-wedding.netlify.app',
+        mobileWebUrl: 'https://soyeon1221.github.io/wedding-invitation',
+      webUrl: 'https://soyeon1221.github.io/wedding-invitation',
       },
     },
   ],
