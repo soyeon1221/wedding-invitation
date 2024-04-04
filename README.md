@@ -42,7 +42,8 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 ### 1. 상단
 
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/681864e1-1158-48f2-b817-accfd95e80bf" width="300px" height="310px">
-<br>
+
+
 - 클릭이벤트를 사용해서 재생/음소거 버튼으로 오디오 재생을 컨트롤 할 수 있게 구현하였습니다.
 - position과 opacity를 사용하여 메인이미지 위에 꽃잎 효과를 넣었습니다.
 
