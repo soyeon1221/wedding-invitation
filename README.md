@@ -63,7 +63,7 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 3. D-day
 
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/6afb7de6-aaca-436d-93e5-d635d223ad28" width="300px" height="310px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/6afb7de6-aaca-436d-93e5-d635d223ad28" width="300px" height="330px">
 
 
 - newDate()를 통해 현재 날짜와 시각을 받고, 이를 통해 디데이 계산을 하였습니다.
