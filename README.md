@@ -109,7 +109,7 @@ pc브라우저나 안드로이드는 1,2번만 추가해도 가능하지만 아�
 ```
 <video src="" muted loop autoplay playsinline></video>
 ```
-###### 2.
+###### 2. 연락하기
 - 아이폰의 경우 a태그나 onclick 없이도 전화번호 형식의 문자는 자동으로 전화로 링크가 가능하다. 이를 방지하기 위해 메타태그가 걸려있을 수 있다. 아래 태그를 추가하면 자동링크는 되지 않는다.
 ```
 <meta name="format-detection" content="telephone=no">
