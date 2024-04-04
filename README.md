@@ -82,6 +82,9 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 5. 지도
 
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/fa6dbe36-c270-451d-a3ea-35d8b0609188" width="300px" height="310px">
+
+
 - kakao map을 삽입하여 해당 주소의 지도가 보이도록 구현하였습니다.
 - 각 버튼을 클릭하면 해당 미디어로 이동합니다.
 
