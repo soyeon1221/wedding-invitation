@@ -41,7 +41,7 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 1. 상단
 
-<video src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/241379fb-1745-4fa1-9402-65376c5ea2a6" width="200px"></video>
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/2e0d90b3-bfab-4876-b7cc-35b2f3205e6f" width="200px">
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/88dd7240-1c48-4b3c-828e-8a7cd4ecf3fc" width="200px">
 <br>
 - 클릭이벤트를 사용해서 재생/음소거 버튼으로 오디오 재생을 컨트롤 할 수 있게 구현하였습니다.
