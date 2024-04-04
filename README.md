@@ -51,10 +51,9 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 2. 연락하기
 
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/1953bd0a-15ba-4288-b7a9-3ce6648ce4c7" width="270px" height="260px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/4015345e-16ce-45db-9848-e1bfb72845fa" width="270px" height="260px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/8b38f785-38b3-48c4-91f2-d0386861bcde" width="270px" height="260px">
-
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/16e9b05e-d130-444f-81cc-fe2e48528fbe" width="270px" height="320px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/985be873-6664-4fd4-a6c0-b70b35ab7e59" width="270px" height="320px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/a0fd0428-9618-410e-8fa8-e9cf04b5e227" width="270px" height="320px">
 
 
 (연락하기 버튼을 눌렀을 때 하단에 리스트가 나타나고 전화 걸기 화면까지 확인할 수 있습니다.)
@@ -115,9 +114,9 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 8. 방명록
 
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/84e3e51c-a3da-442d-b503-be8d94fd65e2" width="270px" height="310px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/594bb411-8c1a-46ce-b56a-13a0f26f640f" width="270px" height="310px">
-<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/fcfd54b3-9314-4e8f-a11b-4f3d521eccaa" width="270px" height="310px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/84e3e51c-a3da-442d-b503-be8d94fd65e2" width="270px" height="320px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/594bb411-8c1a-46ce-b56a-13a0f26f640f" width="270px" height="320px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/fcfd54b3-9314-4e8f-a11b-4f3d521eccaa" width="270px" height="320px">
 
 
 (작성하고 저장하면 하단에 방명록이 생성되고 X 버튼을 누르면 비밀번호 입력란이 나타나는 것을 확인할 수 있습니다.)
