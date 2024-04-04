@@ -99,6 +99,9 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 ### 7. 마음 전하실 곳
 
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/ac16e629-f66a-4acd-a7d0-2582ddf8fed8" width="300px" height="310px">
+
+
 - 계좌번호 상자를 클릭하면 밑으로 리스트가 나타나도록 구현하였습니다.
 - Clipboard API를 사용하여 복사버튼을 누르면 해당 계좌번호의 숫자가 복사되고, alert로 안내 창을 구현하였습니다.
 
@@ -111,6 +114,11 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 
 
 ### 9. 하단
+
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/12325731-9202-4de5-8a69-ef3dd67681d6" width="300px" height="310px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/4be60719-3e3e-4aea-baaf-bf06a5b48754" width="300px" height="310px">
+<img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/6a6a9a71-248d-4537-b1e8-805b236ad50f" width="300px" height="310px">
+
 
 - Kakao developers를 사용하여 카카오톡 공유하기 버튼을 누르면 사용자 카카오톡 친구 목록이 나타나면서 공유할 수 있게 구현하였습니다.
 - Clipboard API를 사용하여 링크 주소 복사하기 버튼을 누르면 현재 URL이 복사되고, alert로 안내 창을 구현하였습니다.
