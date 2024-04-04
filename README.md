@@ -44,12 +44,14 @@ BGM, 디데이, 갤러리, 지도, 방명록, 카카오톡 공유하기 기능�
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/681864e1-1158-48f2-b817-accfd95e80bf" width="300px" height="310px">
 
 
+(재생/음소거 버튼 클릭 , 꽃잎 효과를 확인할 수 있습니다.)
 - 클릭이벤트를 사용해서 재생/음소거 버튼으로 오디오 재생을 컨트롤 할 수 있게 구현하였습니다.
 - position과 opacity를 사용하여 메인이미지 위에 꽃잎 효과를 넣었습니다.
 
 
 ### 2. 연락하기
 
+(연락하기 버튼을 눌렀을때 하단에 리스트가 나타나고 전화 걸기 화면까지 확인할 수 있습니다.)
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/1953bd0a-15ba-4288-b7a9-3ce6648ce4c7" width="270px" height="260px">
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/4015345e-16ce-45db-9848-e1bfb72845fa" width="270px" height="260px">
 <img src="https://github.com/soyeon1221/wedding-invitation/assets/121142418/8b38f785-38b3-48c4-91f2-d0386861bcde" width="270px" height="260px">
